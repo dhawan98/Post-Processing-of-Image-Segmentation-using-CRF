@@ -1,5 +1,5 @@
 # Post-Processing-of-Image-Segmentation-using-CRF
-Text me if you want to read more about Conditional Random Fields. I have published a paper regarding it that could help.
+Text me if you want to read more about Conditional Random Fields.
 
 https://ieeexplore.ieee.org/document/8991232
 Please refer iff you use this rep.
