@@ -2,7 +2,7 @@
 Text me if you want to read more about Conditional Random Fields.
 
 https://ieeexplore.ieee.org/document/8991232
-Please refer if you use this rep.
+Please refer if you use this code.
 
 
 Uses Conditional Random Fields to post process the images that are already segmented using any of the techniques.
